@@ -24,7 +24,7 @@ export default {
             return starsOff
         }
     },
-} 
+}  
 </script>
 
 <template>
